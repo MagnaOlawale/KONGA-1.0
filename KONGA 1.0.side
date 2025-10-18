@@ -48,7 +48,7 @@
         ["xpath=//main[@id='mainContent']/div/div/div[2]/div/form/div/input", "xpath:idRelative"],
         ["xpath=//div/input", "xpath:position"]
       ],
-      "value": "tobisolawalesalami@gmail.com"
+      "value": "XXXXXXXXXXXXXX@gmail.com"
     }, {
       "id": "59e82b1f-8218-4e5e-871a-6303d40ac24a",
       "comment": "",
@@ -62,7 +62,7 @@
         ["xpath=//main[@id='mainContent']/div/div/div[2]/div/form/div[2]/input", "xpath:idRelative"],
         ["xpath=//div[2]/input", "xpath:position"]
       ],
-      "value": "Temidayo21"
+      "value": "XXXXXXXXXXX"
     }, {
       "id": "2cfd1121-7ced-4e15-9e80-3ff71e95b8f9",
       "comment": "",
